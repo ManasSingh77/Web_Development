@@ -1,0 +1,13 @@
+.Margin{
+    margin:10px;
+}
+p{
+    text-align: left;
+}
+.sticky{
+    position: fixed;
+}
+.manas{
+    color: yellow;
+    background-color: rgb(58, 55, 55);
+}
